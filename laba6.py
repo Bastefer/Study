@@ -60,7 +60,7 @@
 #         cities[city] = line[0]
 # 
 # for _ in range(int(input())):
-#     print(cities[input()])Z
+#     print(cities[input()])
 
 
 
